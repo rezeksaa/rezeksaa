@@ -48,3 +48,7 @@
 
 <br/>
 <hr/>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezeksaa&show_icons=true&locale=en&layout=compact" alt="rezeksaa" /></p>
+
+
