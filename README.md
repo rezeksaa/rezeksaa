@@ -1,6 +1,6 @@
 <img position="absolute" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rezeksaa.rezeksaa"/>
 
-<img src="banner (2).png">
+<img src="banner.png">
 
 <h3 align="center">Junior Web Developer</h3>
 
