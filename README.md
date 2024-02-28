@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A Student from SMK Telkom Malang </h3>
+<h3 align="center">Junior Web Developer</h3>
 
 <br/>
 
