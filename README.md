@@ -11,7 +11,7 @@
 
 <div align="center">
 
-🌱 I'm currently learning **Javascript, php, Tailwind**
+🌱 I'm currently learning **Javascript, php, Tailwind, React**
   
 </div>
 
