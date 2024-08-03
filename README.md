@@ -41,7 +41,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,java,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,java,py,vscode" />
   </a>
 </p>
 
