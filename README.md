@@ -8,7 +8,7 @@ Hi there! 😃 I'm Muhammad Rezky Eksatama, a passionate mobile developer curren
 - **Mobile Development:** Flutter, Dart, and Kotlin
 - **Programming Languages:** Java, Dart, Kotlin
 - **Tools & Technologies:** Android Studio, Visual Studio Code, GitHub
-- **Other Interests:** Game development, UI/UX design
+- **Other Interests:** Artificial Intelligence
 
 ### Education
 - **SMK Telkom Malang**.
